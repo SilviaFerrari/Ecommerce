@@ -1,0 +1,29 @@
+Inherit in CSS fa sì che l'elemento per il quale è specificato 
+prenda il valore calcolato della proprietà dal suo elemento genitore. 
+Può essere applicato a qualsiasi proprietà CSS, inclusa la scorciatoia CSS all.
+
+La tipografia viene utilizzata per presentare il tuo design e 
+i tuoi contenuti nel modo più chiaro ed efficiente possibile.
+Come PagerDuty aiuta le aziende a consegnare in tempo reale.
+Troppe dimensioni e stili dei caratteri contemporaneamente possono rovinare qualsiasi layout.
+Una scala tipografica ha un insieme limitato di dimensioni 
+dei caratteri che funzionano bene insieme alla griglia di layout.
+
+theme.mixins.toolbar aggiunge semplicemente un'altezza minima a un elemento. 
+È utile quando utilizzi l'AppBar con una sezione di contenuto 
+sottostante e desideri aggiungere uno spaziatore nella parte 
+superiore del contenuto in modo che non scompaia sotto l'AppBar, ad esempio.
+
+flexGrow descrive come ogni spazio all'interno di un container dovrebbe essere 
+distribuito tra i children lungo l'asse principale. Dopo aver disposto i children, 
+un contenitore distribuirà lo spazio rimanente in base ai valori di flex grow specificati.
+Accetta qualsiasi valore >= 0, dove 0 è il valore predefinito. 
+Un container distribuirà lo spazio rimanente tra i children pesati dai valori flexGrow.
+
+useEffect serve per portare immediatamente i prodotti sulla nostra applicazione.
+
+Una funzione asincrona è una funzione dichiarata con la parola chiave async e la parola chiave await
+è consentita al suo interno. Le parole chiave async e await consentono di scrivere un comportamento 
+asincrono basato su promise in uno stile più chiaro, evitando la necessità di configurare esplicitamente 
+le catene di promesse. Restituisce una promise che verrà risolta con il valore restituito dalla funzione 
+asincrona o rifiutata con un'eccezione generata o non rilevata all'interno della funzione asincrona.
